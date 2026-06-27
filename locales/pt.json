@@ -51,9 +51,9 @@
   "welcome.title": "HubApp — Hub de canais Meta",
   "welcome.lead": "Conecte WhatsApp Business, Messenger e Instagram e acompanhe os webhooks em tempo real.",
   "welcome.subscribe": "Visitar hubapp.pro.br",
-  "welcome.knowZpro": "Visitar hubapp.pro.br",
+  "welcome.knowZpro": "Visitar launcher.com.br",
   "welcome.enter": "Acessar o painel",
-  "welcome.foot": "by HubApp",
+  "welcome.foot": "by Launcher",
 
   "login.subtitle": "Painel de conexão de canais Meta",
   "login.password": "Senha do painel",
@@ -101,7 +101,7 @@
   "topbar.logout": "Sair",
   "topbar.lang": "Idioma",
 
-  "side.by": "by HubApp",
+  "side.by": "by Launcher",
   "side.promo": "Hub de canais Meta: WhatsApp Business, Messenger e Instagram — OAuth, webhooks e roteamento.",
   "side.knowZpro": "Visitar hubapp.pro.br →",
   "side.youtube": "HubApp",

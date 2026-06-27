@@ -50,7 +50,8 @@ docker compose up -d --build
 ```
 
 - A porta **interna** do container é fixa em `3300`; escolha a do host com `HOST_PORT` (padrão `3300`): `HOST_PORT=8080 docker compose up -d`.
-- Logs: `docker compose logs -f` · atualizar: `docker compose up -d --build` · parar: `docker compose down` (os dados ficam no volume `oauth-hub-data`).
+- Logs: `docker compose logs -f` · parar: `docker compose down` (os dados ficam no volume `oauth-hub-data`).
+- **Atualizar a imagem após alterações no código** (container já em execução): `docker compose up -d --build` — reconstrói a imagem e recria o container sem derrubar o serviço.
 
 Sem Compose (build/run direto):
 
